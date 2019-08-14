@@ -1,4 +1,6 @@
 # ridgebacknet.github.io
 
-This is an experimental knowledge base portal.
+This is an experimental portal.
+
+<https://ridgebacknet.github.io>
 
